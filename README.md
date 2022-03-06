@@ -1,5 +1,14 @@
 # Ubuntu 20 Setup
 
+## Demo
+![](Demo.gif)
+
+Demo video link:
+https://youtu.be/uTdARWC5nGc
+
+## Download Sample Data
+https://drive.google.com/drive/folders/1qSi78IHS9fudoTOxwGGemzoMeQFTR7C7?usp=sharing
+
 ## Dependencies
 
 ```
