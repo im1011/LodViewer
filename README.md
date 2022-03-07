@@ -1,10 +1,10 @@
 # Ubuntu 20 Setup
 
-## Demo
+## Preview
 ![](Demo.gif)
 
-Demo video link:
-https://youtu.be/uTdARWC5nGc
+Preview video link:
+https://youtu.be/GYLC4GT7ZFI
 
 ## Download Sample Data
 https://drive.google.com/drive/folders/1qSi78IHS9fudoTOxwGGemzoMeQFTR7C7?usp=sharing
